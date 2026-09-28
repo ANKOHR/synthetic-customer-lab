@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+build/
+dist/
+*.egg-info/
+.synlab/
+synlab-audit.jsonl
+BUILD-DONE.txt
+sc-prompt.txt
+sc-launch.py
+sc-codex.log
